@@ -78,7 +78,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: logo.png
+avatar: https://github.com/Jasonbourne723/Jasonbourne723.github.io/blob/master/logo.jpg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
