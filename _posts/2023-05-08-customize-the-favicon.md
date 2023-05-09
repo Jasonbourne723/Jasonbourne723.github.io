@@ -1,35 +1,37 @@
 ---
-title: Customize the Favicon
+title: 微服务架构系列文章目录
 author: JasonBourne
-date: 2019-08-11 00:34:00 +0800
-categories: [Blogging, Tutorial]
-tags: [favicon]
+date: 2023-05-09 00:34:00 +0800
+categories: [架构, 微服务]
+tags: [微服务]
 ---
 
-The [favicons](https://www.favicon-generator.org/about/) of [**Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/) are placed in the directory `assets/img/favicons/`{: .filepath}. You may want to replace them with your own. The following sections will guide you to create and replace the default favicons.
+### 架构的本质
+> 熵增定律：一个封闭系统，都是从有序到无序，也就是它的熵（即混乱程度）会不断地增加，最终系统会彻底变得无序。
 
-## Generate the favicon
+这个理论放在软件系统的演化上，也是非常适用的。一方面，随着业务需求的增加，我们会往系统里不停地添加业务功能；另一方面，随着访问量的不断增加，我们会不断通过技术手段来加强系统非业务性功能。如果事先不做良好的设计，随着时间的推进，整个系统野蛮生长，就会逐渐碎片化，越来越无序，最终被推倒重来。对于软件系统，我们可以主动地调整系统各个部分的关系，制造“负熵”，保证系统整体的有序性，来更好地适应不断增长的业务和技术变化。这种系统内部关系的调整就是通过架构实现的，所以，架构的本质就是：通过合理的内部编排，保证系统高度有序，能够不断扩展，满足业务和技术的变化。基本的手段，就是“分”与“合”，先把系统打散，然后将它们重新组合，形成更合理的关系。**分就是把系统拆分为各个子系统、模块、组件。各个子系统承担独立的职责，内部包含了自身的复杂性。子系统的复杂性对外部是透明的，外部不用关心。合：就是基于业务流程和技术手段，把各个组件有机整合在一起,解决各个点之间的依赖关系，这样就可以定义出系统整体。通过合理的“分”与“合”，系统由原先的铁板一块变成一个富有弹性、结构化。**这样，系统的复杂性有效地分解了，系统的有序度大幅度地提升了。
+### 微服务架构
 
-Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and then go to the online tool [**Real Favicon Generator**](https://realfavicongenerator.net/) and click the button <kbd>Select your Favicon image</kbd> to upload your image file.
+微服务的目的是有效的拆分应用，实现敏捷开发和部署。微服务架构重点强调的一个是"业务需要彻底的组件化和服务化"，原有的单个业务系统会拆分为多个可以独立开发、设计、运行的小应用。微服务架构由一组小型的、自主的服务构成。每个服务都是自包含的，并且应该实现单一的业务功能，它包含以下特征：
+- 服务是一个单一的、可独立部署的软件组件，它实现了一些有用的功能。
+- 在一个微服务架构中，服务是小型、独立、低耦合的；
+- 每个服务都是单独的代码库，可以由一个小的开发团队管理；
+- 每个服务都有独立的持久化机制（不同的数据库）。
+- 每个服务都可以独立部署。一个团队无需生成和发布整个应用程序，取而代之仅更新已有的服务即可；
+- 服务之间通过具有明确界限的API来彼此通信，每个服务内部的实现细节由服务隐藏；
+- 服务之间无需共享相同的技术栈、代码库或框架。
 
-In the next step, the webpage will show all usage scenarios. You can keep the default options, scroll to the bottom of the page, and click the button <kbd>Generate your Favicons and HTML code</kbd> to generate the favicon.
+### 微服务架构设计
+#### 架构定义
+- [微服务架构和SOA架构的区别](https://www.cnblogs.com/jasonbourne3/p/14475868.html "微服务架构和SOA架构的区别")
 
-## Download & Replace
+#### 服务治理
+- [微服务架构之服务注册与发现(Consul+gliderlabs/registrator)](https://www.cnblogs.com/jasonbourne3/p/16629275.html)
 
-Download the generated package, unzip and delete the following two from the extracted files:
+- [微服务架构之分布式追踪(.net6集成Zipkin)](https://www.cnblogs.com/jasonbourne3/p/16628910.html)
+- [微服务架构之服务间通信](https://www.cnblogs.com/jasonbourne3/p/16659324.html)
+- [微服务架构之分布式日志ELK的安装部署](https://www.cnblogs.com/jasonbourne3/p/14338788.html "微服务架构之分布式日志ELK的安装部署")
+#### 设计规范
+- [微服务架构之分布式Id(snowflake)](https://www.cnblogs.com/jasonbourne3/p/16670666.html "微服务架构之分布式Id(snowflake)")
 
-- `browserconfig.xml`{: .filepath}
-- `site.webmanifest`{: .filepath}
-
-And then copy the remaining image files (`.PNG`{: .filepath} and `.ICO`{: .filepath}) to cover the original files in the directory `assets/img/favicons/`{: .filepath} of your Jekyll site. If your Jekyll site doesn't have this directory yet, just create one.
-
-The following table will help you understand the changes to the favicon files:
-
-| File(s)             | From Online Tool                  | From Chirpy |
-|---------------------|:---------------------------------:|:-----------:|
-| `*.PNG`             | ✓                                 | ✗           |
-| `*.ICO`             | ✓                                 | ✗           |
-
->  ✓ means keep, ✗ means delete.
-{: .prompt-info }
-The next time you build the site, the favicon will be replaced with a customized edition.
+- [Restful Api设计规范](https://www.cnblogs.com/jasonbourne3/p/11411669.html "Restful Api设计规范")
