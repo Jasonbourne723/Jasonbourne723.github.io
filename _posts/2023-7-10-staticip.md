@@ -1,0 +1,59 @@
+---
+title: linux设置固定IP
+date: 2023-07-10 19:34:00 +0800
+categories: [运维]
+tags: [linux]
+---
+
+
+ifcfg-ens33 是 CentOS/RHEL 系统中网卡配置文件的命名约定。在该文件中，您可以配置与特定网卡（例如 ens33）相关的网络参数。
+
+### 操作步骤
+
+1. 打开ifcfg-ens33文件
+
+```
+vim /etc/sysconfig/network-scripts/ifcfg-ens33
+```
+2. 将BOOTPROTO配置修改为`static`
+
+```
+BOOTPROTO="static"
+```
+3. 配置固定IP、子网掩码、网关、dns
+
+```
+IPADDR="192.168.45.223"
+NETMASK="255.255.255.0"
+GATEWAY="192.168.45.2"
+DNS1="223.5.5.5"
+DNS2="8.8.8.8"
+```
+4. 保存文件后，重启网络服务,固定IP配置完成
+
+```
+systemctl restart network
+```
+
+### 配置文件示例
+```
+TYPE="Ethernet"
+PROXY_METHOD="none"
+BROWSER_ONLY="no"
+BOOTPROTO="static"
+DEFROUTE="yes"
+IPV4_FAILURE_FATAL="no"
+IPV6INIT="yes"
+IPV6_AUTOCONF="yes"
+IPV6_DEFROUTE="yes"
+IPV6_FAILURE_FATAL="no"
+IPV6_ADDR_GEN_MODE="stable-privacy"
+NAME="ens33"
+DEVICE="ens33"
+ONBOOT="yes"
+IPADDR="192.168.45.223"
+NETMASK="255.255.255.0"
+GATEWAY="192.168.45.2"
+DNS1="223.5.5.5"
+DNS2="8.8.8.8"
+```
