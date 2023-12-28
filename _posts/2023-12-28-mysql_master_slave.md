@@ -11,6 +11,7 @@ tags: [mysql]
 
 使用docker安装两个mysql容器，分别映射到宿主机的3306、3307端口。
 参考如下安装命令：
+
 ```
 docker run -d --restart=always --name mysql --privileged=true -v /data/mysql/data:/var/lib/mysql -v /data/mysql/conf:/etc/mysql/conf.d -v /data/mysql/log:/var/log/mysql -p 3303:3306  -e TZ=Asia/Shanghai -e MYSQL_ROOT_PASSWORD=123456  mysql:latest
 ```
@@ -57,6 +58,7 @@ FLUSH PRIVILEGES;
 ```
 
 ## 配置从库
+
 
 - 修改从库my.cnf文件，在[mysqld]加入下面的内容,然后重启从库
 
