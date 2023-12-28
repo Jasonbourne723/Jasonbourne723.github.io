@@ -61,7 +61,6 @@ FLUSH PRIVILEGES;
 - 修改从库my.cnf文件，在[mysqld]加入下面的内容,然后重启从库
 
 ```
-
 # 服务的唯一编号
 server-id = 2
 
@@ -94,7 +93,6 @@ start slave;
 
 
 ```
-
 +------------------+-----------------+
 | Slave_IO_Running |Slave_SQL_Running|
 +------------------+-----------------+
