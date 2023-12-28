@@ -47,6 +47,7 @@ FLUSH PRIVILEGES;
 ```
 
 - 通过 `show master status` 查看主库状态，重点关注 File 和 Position 两列
+
 ```
 +------------------+----------+--------------+------------------+-------------------+
 | File             | Position | Binlog_Do_DB | Binlog_Ignore_DB | Executed_Gtid_Set |
@@ -58,7 +59,9 @@ FLUSH PRIVILEGES;
 ## 配置从库
 
 - 修改从库my.cnf文件，在[mysqld]加入下面的内容,然后重启从库
+
 ```
+
 # 服务的唯一编号
 server-id = 2
 
@@ -75,6 +78,7 @@ binlog_row_image = minimal
 replicate-do-db = test
 
 ```
+
 - 执行如下同步命令
 
 ```
@@ -83,11 +87,14 @@ stop slave;
 change master to master_host='192.168.164.101',master_user='jason',master_password='123456',master_log_file='mysql-bin.000005',master_log_pos=737,get_master_public_key=1;
 
 start slave;
+
 ```
 
 - 通过 `show slave status` 查看从库状态，如下两列均为yes时，表示主-从模式的mysql已经搭建成功。
 
+
 ```
+
 +------------------+-----------------+
 | Slave_IO_Running |Slave_SQL_Running|
 +------------------+-----------------+
