@@ -50,15 +50,12 @@ jobs:
         env:
           JEKYLL_ENV: "production"
 
-<<<<<<< HEAD:.github/workflows/pages-deploy.yml
-=======
       - name: Test site
         run: |
           bundle exec htmlproofer _site \
             \-\-disable-external=true \
             \-\-ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
 
->>>>>>> c45e0311552e320417bb3d6cab4296d678e14037:.github/workflows/pages-deploy.yml.hook
       - name: Upload site artifact
         uses: actions/upload-pages-artifact@v1
         with:
