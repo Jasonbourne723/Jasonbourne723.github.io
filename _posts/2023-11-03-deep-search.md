@@ -33,7 +33,7 @@ public class Graph { // 无向图
 
 广度优先搜索（Breadth-First-Search），我们平常都简称 BFS。直观地讲，它其实就是一种“地毯式”层层推进的搜索策略，即先查找离起始顶点最近的，然后是次近的，依次往外搜索。理解起来并不难，所以我画了一张示意图，你可以看下。
 
-![search](https://s3.bmp.ovh/imgs/2024/02/26/72ee9609e15b9b85.png)
+![search](/assets/img/deep-search/001.png)
 
 ```
 public void bfs(int s, int t) {
