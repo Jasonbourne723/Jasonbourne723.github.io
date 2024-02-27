@@ -1,8 +1,8 @@
 ---
 title: MySQL索引
 date: 2023-11-03 10:12:00 +0800
-categories: [架构]
-tags: [数据库]
+categories: [数据库]
+tags: [MySQL]
 ---
 
 ## 索引简介

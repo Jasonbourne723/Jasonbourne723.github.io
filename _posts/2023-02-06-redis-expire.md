@@ -1,8 +1,8 @@
 ---
 title: Redis过期key删除和缓存淘汰策略
-date: 2024-02-22 01:12:00 +0800
+date: 2023-02-22 01:12:00 +0800
 pin: false 
-categories: [架构]
+categories: [数据库]
 tags: [Redis]
 ---
 
