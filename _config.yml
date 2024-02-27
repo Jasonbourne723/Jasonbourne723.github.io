@@ -74,7 +74,7 @@ avatar: https://s3.bmp.ovh/imgs/2023/07/05/6d1474572e34bbfb.jpg
 
 # boolean type, the global switch for TOC in posts.
 
-# toc: true
+toc: true
 
 comments:
   active:  disqus # The global switch for posts comments, e.g., 'disqus'.  Keep it empty means disable
