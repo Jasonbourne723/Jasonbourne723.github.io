@@ -7,11 +7,11 @@ tags: [软件设计]
 
 > 网络应用程序，分为前端和后端两个部分。当前的发展趋势，就是前端设备层出不穷（手机、平板、桌面电脑、其他专用设备......）。因此，必须有一种统一的机制，方便不同的前端设备与后端进行通信。这导致API构架的流行，甚至出现"API First"的设计思想。RESTful API是目前比较成熟的一套互联网应用程序的API设计理论。
 
-### 协议
+## 协议
 
 API与用户的通信协议，总是使用HTTPs协议。
 
-### 域名
+## 域名
 
 应该尽量将API部署在专用域名之下。
 
@@ -24,7 +24,7 @@ https://api.example.com
 ```
 https://example.org/api/
 ```
-### 版本（Versioning）
+## 版本
 
 应该将API的版本号放入URL。
 
@@ -47,7 +47,7 @@ https://api.example.com/v1/animals
 https://api.example.com/v1/employees
 ```
 
-### HTTP动词
+## HTTP动词
 
 对于资源的具体操作类型，由HTTP动词表示。
 
@@ -75,7 +75,7 @@ https://api.example.com/v1/employees
 - GET /zoos/ID/animals：列出某个指定动物园的所有动物
 - DELETE /zoos/ID/animals/ID：删除某个指定动物园的指定动物
 
-### 过滤信息（Filtering）
+## 过滤信息
 
 如果记录数量很多，服务器不可能都将它们返回给用户。API应该提供参数，过滤返回结果。
 
@@ -88,7 +88,7 @@ https://api.example.com/v1/employees
 - ?animal_type_id=1：指定筛选条件
 - 参数的设计允许存在冗余，即允许API路径和URL参数偶尔有重复。比如，GET /zoo/ID/animals 与 GET /animals?zoo_id=ID 的含义是相同的。
 
-### 状态码（Status Codes）
+## 状态码
 
 服务器向用户返回的状态码和提示信息，常见的有以下一些（方括号中是该状态码对应的HTTP动词）。
 
@@ -105,7 +105,7 @@ https://api.example.com/v1/employees
 - 422 Unprocesable entity - [POST/PUT/PATCH] 当创建一个对象时，发生一个验证错误。
 - 500 INTERNAL SERVER ERROR - [*]：服务器发生错误，用户将无法判断发出的请求是否成功。
 
-### 错误处理（Error handling）
+## 错误处理
 
 如果状态码是4xx，就应该向用户返回出错信息。一般来说，返回的信息中将error作为键名，出错信息作为键值即可。
 ```
@@ -114,7 +114,7 @@ https://api.example.com/v1/employees
 }
 ```
 
-### 返回结果
+## 返回结果
 
 针对不同操作，服务器向用户返回的结果应该符合以下规范。
 
@@ -125,7 +125,7 @@ https://api.example.com/v1/employees
 - PATCH /collection/resource：返回完整的资源对象
 - DELETE /collection/resource：返回一个空文档
 
-### 其他
+## 其他
 
 1. API的身份认证应该使用OAuth 2.0框架。
 2. 服务器返回的数据格式，应该尽量使用JSON，避免使用XML。
