@@ -22,7 +22,6 @@ pin:  true
 ### 数据结构
 
 - [数组](https://jasonbourne723.github.io/posts/array/)
-
 - [链表](https://jasonbourne723.github.io/posts/link-list/)
 - [栈](https://jasonbourne723.github.io/posts/stack/)
 - [散列表](https://jasonbourne723.github.io/posts/hash-table/)
@@ -39,7 +38,6 @@ pin:  true
 ### 算法
 
 - [递归](https://jasonbourne723.github.io/posts/recursion/)
-
 - [二分查找](https://jasonbourne723.github.io/posts/binary-search/)
 - [BF/RK字符串匹配算法](https://jasonbourne723.github.io/posts/bf-rk/)
 - [深度广度优先搜索](https://jasonbourne723.github.io/posts/deep-search/)

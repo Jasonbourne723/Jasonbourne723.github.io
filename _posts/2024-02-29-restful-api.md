@@ -119,7 +119,6 @@ https://api.example.com/v1/employees
 针对不同操作，服务器向用户返回的结果应该符合以下规范。
 
 - GET /collection：返回资源对象的列表（数组）
-
 - GET /collection/resource：返回单个资源对象
 - POST /collection：返回新生成的资源对象
 - PUT /collection/resource：返回完整的资源对象
@@ -129,5 +128,4 @@ https://api.example.com/v1/employees
 ### 其他
 
 1. API的身份认证应该使用OAuth 2.0框架。
-
 2. 服务器返回的数据格式，应该尽量使用JSON，避免使用XML。
