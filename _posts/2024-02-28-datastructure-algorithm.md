@@ -41,10 +41,10 @@ pin:  true
 - [二分查找](https://jasonbourne723.github.io/posts/binary-search/)
 - [BF/RK字符串匹配算法](https://jasonbourne723.github.io/posts/bf-rk/)
 - [深度广度优先搜索](https://jasonbourne723.github.io/posts/deep-search/)
-- [拓扑排序，Dijkstra，A*算法]()
-- [四种算法思想]()
-- [BM，kmp，ac自动机]()
+- [拓扑排序，Dijkstra，A*算法](https://jasonbourne723.github.io/posts/dijkstra/)
+- [四种算法思想](https://jasonbourne723.github.io/posts/algorithm-thinking/)
+- [BM，kmp，ac自动机](https://jasonbourne723.github.io/posts/bm-kmp/)
 
 ### 算法Demo
 
-- https://github.com/Jasonbourne723/DataStructureAndAlgorithm-Demo
+- [GitHub Demo](https://github.com/Jasonbourne723/DataStructureAndAlgorithm-Demo)
