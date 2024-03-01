@@ -77,7 +77,7 @@ avatar: https://s3.bmp.ovh/imgs/2023/07/05/6d1474572e34bbfb.jpg
 toc: true
 
 comments:
-  # active: true
+  active: true
   # Global switch for the post comment system. Keeping it empty means disabled.
   provider: giscus # [disqus | utterances | giscus]
   # The provider options are as follows:
@@ -90,9 +90,9 @@ comments:
   # Giscus options › https://giscus.app
   giscus:
     repo: Jasonbourne723/Jasonbourne723.github.io
-    repo_id:
-    category:
-    category_id:
+    repo_id: 2343242
+    category: comment
+    category_id: 22323424
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
