@@ -79,17 +79,17 @@ toc: true
 comments:
   # active: true
   # Global switch for the post comment system. Keeping it empty means disabled.
-  provider: utterances # [disqus | utterances | giscus]
+  provider: giscus # [disqus | utterances | giscus]
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: Jasonbourne723/Jasonbourne723.github.io
-    issue_term: # < url | pathname | title | ...>
+    repo: # Jasonbourne723/Jasonbourne723.github.io
+    issue_term: # url # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
+    repo: Jasonbourne723/Jasonbourne723.github.io
     repo_id:
     category:
     category_id:
