@@ -77,6 +77,7 @@ avatar: https://s3.bmp.ovh/imgs/2023/07/05/6d1474572e34bbfb.jpg
 toc: true
 
 comments:
+  active: true
   # Global switch for the post comment system. Keeping it empty means disabled.
   provider: # [disqus | utterances | giscus]
   # The provider options are as follows:
