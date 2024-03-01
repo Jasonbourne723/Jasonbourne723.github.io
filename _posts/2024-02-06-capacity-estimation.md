@@ -2,7 +2,7 @@
 title: 系统设计中的快速估算技巧
 date: 2024-02-22 01:12:00 +0800
 pin: false 
-categories: [架构,架构设计]
+categories: [架构,系统设计]
 tags: [容量规划]
 ---
 
