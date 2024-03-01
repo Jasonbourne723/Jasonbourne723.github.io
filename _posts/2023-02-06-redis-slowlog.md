@@ -2,7 +2,7 @@
 title: Redis慢查询日志
 date: 2023-02-22 01:12:00 +0800
 pin: false 
-categories: [数据库]
+categories: [数据库,Redis]
 tags: [Redis]
 ---
 

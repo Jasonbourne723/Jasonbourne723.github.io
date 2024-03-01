@@ -3,7 +3,7 @@ title: Redis主从复制
 date: 2023-02-22 01:12:00 +0800
 pin: false 
 toc: true
-categories: [数据库]
+categories: [数据库,Redis]
 tags: [Redis]
 ---
 

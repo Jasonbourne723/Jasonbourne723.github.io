@@ -1,7 +1,7 @@
 ---
 title: 数据库选型
 date: 2023-06-26 00:34:00 +0800
-categories: [数据库]
+categories: [数据库,MySQL]
 tags: [MySQL,Redis]
 ---
 
