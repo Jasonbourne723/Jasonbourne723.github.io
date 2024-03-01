@@ -90,7 +90,7 @@ comments:
   giscus:
     repo: Jasonbourne723/Jasonbourne723.github.io
     repo_id: 2343242
-    category: Announcements
+    category: General
     category_id: 22323424
     mapping: title # optional, default to 'pathname'
     input_position: bottom # optional, default to 'bottom'
