@@ -1,6 +1,6 @@
 ---
 title: MySQL索引
-date: 2023-11-03 10:12:00 +0800
+date: 2022-11-03 10:12:00 +0800
 categories: [数据库,MySQL]
 tags: [MySQL]
 ---
