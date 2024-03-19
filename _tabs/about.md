@@ -4,13 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-## 个人信息
+## 力量举
 
-昵称：Jason
-
-邮箱：420994592@qq.com
-
-GitHub：https://github.com/Jasonbourne723
-
+[2024年训练记录](https://jasonbourne723.github.io/posts/powerlifting/)
 
 

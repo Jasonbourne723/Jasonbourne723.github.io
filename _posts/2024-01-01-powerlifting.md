@@ -1,7 +1,7 @@
 ---
 title: 2024力量训练记录
 date: 2024-01-01 01:12:00 +0800
-pin: true 
+pin: false 
 categories: [生活]
 tags: [力量训练]
 ---
