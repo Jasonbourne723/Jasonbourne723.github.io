@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-hand-rock-o
+icon: fas fa-anchor
 order: 4
 ---
 
