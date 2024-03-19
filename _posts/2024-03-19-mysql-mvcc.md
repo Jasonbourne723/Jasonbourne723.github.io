@@ -1,5 +1,5 @@
 ---
-title: MySQL MVCC
+title: MySQL 多版本并发控制(MVCC)
 date: 2024-03-19 10:12:00 +0800
 categories: [数据库,MySQL]
 tags: [MySQL]
@@ -270,7 +270,7 @@ T8时刻的版本链和T6时刻是一致的，不同的是 Read View，因为T8�
 |m_low_limit_id	|400|
 |m_up_limit_id|	400|
 
-根据可见性原则，最终T8时刻事务C 查询到数据为 ` name = "小白"` 。
+根据可见性原则，最终T8时刻事务C 查询到数据为 name = "小白" 。
 
 总结一下，事务C在 RC 级别下各个时刻看到的数据如下：
 
@@ -279,6 +279,7 @@ T8时刻的版本链和T6时刻是一致的，不同的是 Read View，因为T8�
 |T4	|小明|
 |T6|	小红|
 |T8	|小白|
+
 下面我们来看看，RR 级别下的表现是如何的。
 
 ### RR 下的 Read View
