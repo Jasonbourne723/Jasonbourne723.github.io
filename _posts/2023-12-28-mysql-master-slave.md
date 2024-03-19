@@ -1,8 +1,8 @@
 ---
-title: mysql 主从模式搭建
+title: MySQL 主从模式搭建
 date: 2023-12-28 01:12:00 +0800
-categories: [架构]
-tags: [mysql]
+categories: [数据库,MySQL]
+tags: [MySQL]
 ---
 
 > 当单体数据库的读写能力成为系统瓶颈时，搭建数据库的主-从模式是一个很好的选择，通过实现读写分离，可以大幅度提升数据库的读写能力。

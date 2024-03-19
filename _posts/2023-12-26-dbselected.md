@@ -1,8 +1,8 @@
 ---
 title: 数据库选型
-date: 2023-06-26 00:34:00 +0800
-categories: [架构]
-tags: [数据库]
+date: 2023-12-26 00:34:00 +0800
+categories: [数据库,MySQL]
+tags: [MySQL,Redis]
 ---
 
 > 数据库产品有很多种：Redis，MySQL，Oracle，MongoDB，HBase等等。面对众多的存储技术，我们该如何进行技术选型呢？
