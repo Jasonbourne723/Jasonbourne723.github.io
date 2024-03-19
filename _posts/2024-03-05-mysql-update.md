@@ -7,6 +7,8 @@ tags: [MySQL]
 
 ![](/assets/img/mysql-arch/002.png)
 
+与查询流程不一样的是，更新流程还设计两个重要模块：redo log 和 binlog。
+
 以下面的一条sql为例 （ID为主键）
 
 1. update T set b=b+1 where ID = 2
