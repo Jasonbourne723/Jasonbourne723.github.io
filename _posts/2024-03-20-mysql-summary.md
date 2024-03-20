@@ -2,8 +2,8 @@
 title: MySQL 系列文章汇总
 date: 2024-03-20 08:12:00 +0800
 categories: [数据库,MySQL]
-pin: true
 tags: [MySQL]
+pin: true
 ---
 
 1. [数据库选型](https://jasonbourne723.github.io/posts/dbselected/)
