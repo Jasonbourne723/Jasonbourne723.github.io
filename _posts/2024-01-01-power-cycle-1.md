@@ -2,7 +2,7 @@
 title: 2024-1 训练周期
 date: 2024-01-01 01:12:00 +0800
 pin: false 
-categories: [生活]
+categories: [力量训练]
 tags: [力量训练]
 ---
 

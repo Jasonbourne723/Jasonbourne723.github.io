@@ -2,7 +2,7 @@
 title: 2024-2 训练周期
 date: 2024-02-24 01:12:00 +0800
 pin: false 
-categories: [生活]
+categories: [力量训练]
 tags: [力量训练]
 ---
 
