@@ -1,6 +1,6 @@
 ---
 title: MySQL 存储结构
-date: 2024-03-04 10:13:00 +0800
+date: 2023-03-04 10:13:00 +0800
 categories: [数据库,MySQL]
 tags: [MySQL]
 ---
