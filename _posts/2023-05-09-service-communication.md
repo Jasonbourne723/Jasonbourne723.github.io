@@ -1,7 +1,7 @@
 ---
 title: 服务间通信
 date: 2023-05-09 00:34:00 +0800
-categories: [架构,微服务]
+categories: [架构]
 tags: [微服务,分布式]
 ---
 

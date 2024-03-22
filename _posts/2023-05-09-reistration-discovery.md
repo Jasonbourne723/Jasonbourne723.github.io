@@ -1,7 +1,7 @@
 ---
 title: 服务注册与发现
 date: 2023-05-09 00:34:00 +0800
-categories: [架构,微服务]
+categories: [架构]
 tags: [微服务,Consul,.Net]
 ---
 
