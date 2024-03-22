@@ -67,6 +67,8 @@ GET /users/12 – 获取id=12的用户对象
 - 只需要序列化（JSON、XML、YAML等格式）和反序列化数据。
 - 需要存储海量数据。
 
+[数据库技术选型](https://jasonbourne723.github.io/posts/dbselected/)
+
 ## 纵向扩展 vs. 横向扩展
 
 纵向扩展也叫作向上扩展，指的是提升服务器的能力（CPU、RAM等）。横向扩展也叫作向外扩展，指的是为你的资源池添加更多服务器。
