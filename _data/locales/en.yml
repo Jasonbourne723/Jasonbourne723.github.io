@@ -17,6 +17,7 @@ tabs:
   about: About
   power: Power
   travel: Travel
+  read: Read
 
 # the text displayed in the search bar & search results
 search:
