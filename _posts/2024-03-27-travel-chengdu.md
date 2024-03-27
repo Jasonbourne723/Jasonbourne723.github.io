@@ -6,11 +6,14 @@ categories: [生活]
 tags: [旅行]
 ---
 
+![酒馆](/assets/img/chengdu/11.jpg)
+_IFS_
+
 ![酒馆](/assets/img/chengdu/12.jpg)
 _春熙路附近的小酒馆_
 
 ![大熊猫](/assets/img/chengdu/7.jpg)
-_熊猫基地看国宝。_
+_润玥_
 
 ![火锅](/assets/img/chengdu/6.jpg)
 _吼堂_
