@@ -9,7 +9,7 @@ toc: true
 
 ## 2024 
 
-[成都](https://jasonbourne723.github.io/posts/travel-chengdu/)
+[成都游记](https://jasonbourne723.github.io/posts/travel-chengdu/)
 
 
 
