@@ -42,5 +42,8 @@ _街道4_
 ![麻将](/assets/img/chengdu/15.jpg)
 _麻将_
 
+![女朋友](/assets/img/chengdu/17.jpg)
+_女友_
+
 _玉林路小谣酒馆_
 <video src="/assets/img/chengdu/9.mp4" type="video/mp4"></video>
