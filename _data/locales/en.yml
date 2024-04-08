@@ -18,7 +18,7 @@ tabs:
   power: Power
   travel: Travel
   read: Read
-  # goal: Goal
+  goal: Goal
 
 # the text displayed in the search bar & search results
 search:

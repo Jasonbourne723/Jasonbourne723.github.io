@@ -17,7 +17,7 @@ tabs:
   power: 力量训练
   travel: 旅行
   read: 阅读
-  # goal: 目标
+  goal: 目标
   about: 关于
 
 # the text displayed in the search bar & search results
