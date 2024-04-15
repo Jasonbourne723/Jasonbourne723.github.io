@@ -2,7 +2,7 @@
 title: 2024-3 训练周期
 date: 2024-04-13 01:12:00 +0800
 pin: false 
-categories: [10.力量训练]
+categories: [8.技术之外,力量训练]
 tags: [力量训练]
 ---
 
