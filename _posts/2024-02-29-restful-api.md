@@ -1,7 +1,7 @@
 ---
 title: Restful Api 设计指南
 date: 2024-02-29 8:12:00 +0800
-categories: [架构]
+categories: [1.架构]
 tags: [Restful]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 关于架构设计的一点心得
 date: 2023-07-06 00:34:00 +0800
-categories: [架构]
+categories: [1.架构]
 tags: [架构]
 ---
 
