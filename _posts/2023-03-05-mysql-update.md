@@ -1,7 +1,7 @@
 ---
 title: MySQL 一条update语句的执行过程
 date: 2023-03-05 10:12:00 +0800
-categories: [数据库,MySQL]
+categories: [3.数据库/中间件,MySQL]
 tags: [MySQL]
 ---
 

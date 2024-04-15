@@ -2,7 +2,7 @@
 title: 成都游记
 date: 2024-03-27 01:12:00 +0800
 pin: false 
-categories: [生活]
+categories: [9.旅行游记]
 tags: [旅行]
 ---
 

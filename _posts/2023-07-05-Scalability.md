@@ -1,7 +1,7 @@
 ---
 title: 系统的扩展性与弹性
 date: 2023-07-05 00:34:00 +0800
-categories: [1.架构]
+categories: [1.架构设计]
 tags: [架构]
 ---
 

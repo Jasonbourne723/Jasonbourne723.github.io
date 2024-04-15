@@ -1,7 +1,7 @@
 ---
 title: MySQL 主从模式搭建
 date: 2023-12-28 01:12:00 +0800
-categories: [数据库,MySQL]
+categories: [3.数据库/中间件,MySQL]
 tags: [MySQL]
 ---
 

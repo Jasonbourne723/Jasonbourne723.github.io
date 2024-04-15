@@ -1,7 +1,7 @@
 ---
 title: Linux用户管理
 date: 2023-08-01 10:34:00 +0800
-categories: [DevOps]
+categories: [7.系统运维]
 tags: [Linux]
 ---
 

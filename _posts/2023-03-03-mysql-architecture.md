@@ -1,7 +1,7 @@
 ---
 title: MySQL 基础架构
 date: 2023-03-03 01:12:00 +0800
-categories: [数据库,MySQL]
+categories: [3.数据库/中间件,MySQL]
 tags: [MySQL]
 ---
 

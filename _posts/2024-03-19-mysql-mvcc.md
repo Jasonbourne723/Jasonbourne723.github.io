@@ -1,7 +1,7 @@
 ---
 title: MySQL 多版本并发控制(MVCC)
 date: 2024-03-19 10:12:00 +0800
-categories: [数据库,MySQL]
+categories: [3.数据库/中间件,MySQL]
 tags: [MySQL]
 ---
 

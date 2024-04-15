@@ -1,7 +1,7 @@
 ---
 title: 学习的三个步骤：WHAT、HOW、WHY
 date: 2024-03-30 10:12:00 +0800
-categories: [个人成长]
+categories: [8.读书笔记]
 tags: [学习方法]
 ---
 

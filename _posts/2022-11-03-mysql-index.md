@@ -1,7 +1,7 @@
 ---
 title: MySQL 索引
 date: 2022-11-03 10:12:00 +0800
-categories: [数据库,MySQL]
+categories: [3.数据库/中间件,MySQL]
 tags: [MySQL]
 ---
 

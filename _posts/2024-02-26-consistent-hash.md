@@ -1,7 +1,7 @@
 ---
 title: 一致性哈希算法
 date: 2024-2-26 10:12:00 +0800
-categories: [1.架构]
+categories: [1.架构设计]
 tags: [软件设计]
 toc: true
 ---

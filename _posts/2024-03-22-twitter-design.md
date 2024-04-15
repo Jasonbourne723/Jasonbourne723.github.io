@@ -2,7 +2,7 @@
 title: Twitter工程师如何设计从0到1的百万级并发应用
 date: 2024-03-22 01:12:00 +0800
 pin: false 
-categories: [1.架构]
+categories: [1.架构设计]
 tags: [架构]
 ---
 
