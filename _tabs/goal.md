@@ -19,11 +19,27 @@ toc: true
 
 ### 
 
+### 2024/5
+
+- [ ] 操作系统
+- [ ] tcp/ip详解
+
 ### 2024/4 
 
 - [x] 读完《逻辑表达力》,输出读书笔记   
 - [x] 掌握go语言语法
 - [ ] 掌握go标准库 
+    - [x] sync
+    - [x] os
+    - [x] errors
+    - [x] net/http
+    - [x] fmt
+    - [ ] io
+    - [ ] time
+    - [ ] log
+    - [ ] strconv
+    - [ ] strings
+    - [ ] encoding 
 - [ ] 计算机组成与设计
 
 
