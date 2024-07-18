@@ -11,6 +11,7 @@ toc: true
 
 - [*《逻辑表达力》 -林墨恒*](https://jasonbourne723.github.io/posts/read-logic-expression/)
 - *《你的灯亮着吗？--发现问题的真正所在》 -高斯.温伯格*
+- *《撒哈拉的故事》 -三毛*
     
 
 ## before 2023
