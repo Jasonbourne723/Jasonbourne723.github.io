@@ -9,6 +9,8 @@ toc: true
 
 ## 2024
 
+- *《三个火枪手》 -大仲马*
+- *《动物农场》 -乔治·奥威尔*
 - [*《哈佛经典谈判术》*](https://jasonbourne723.github.io/posts/read-tanpan/)
 - [*《逻辑表达力》 -林墨恒*](https://jasonbourne723.github.io/posts/read-logic-expression/)
 - *《你的灯亮着吗？--发现问题的真正所在》 -高斯.温伯格*
