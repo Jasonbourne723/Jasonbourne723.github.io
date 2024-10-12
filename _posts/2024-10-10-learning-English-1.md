@@ -80,7 +80,7 @@ tent
 4. double room
 5. standard room
 6. air-conditioner / AC  
-7.. credit card 
+7. credit card 
 8. cash 
 9. broken 
 10. toilet 
@@ -104,4 +104,33 @@ cinema
 crowded
 loud
 proud
+```
+
+### 2024-10-12
+
+```
+as soon as
+treat
+insist
+cheese
+recommend
+specials
+bustling
+activity
+couch
+energetic
+entrepreneur
+is full of
+a selection of
+museum
+exhibit
+blouse
+grocery
+cozy
+yard
+peaceful
+bloom
+chef
+confident
+simeli
 ```
