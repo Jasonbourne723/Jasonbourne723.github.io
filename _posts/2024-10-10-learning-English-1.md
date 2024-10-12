@@ -133,4 +133,6 @@ bloom
 chef
 confident
 simeli
+all set 
+arrange
 ```
