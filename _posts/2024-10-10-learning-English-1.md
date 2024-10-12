@@ -9,30 +9,30 @@ tags: []
 ### 2024-10-9
 
 ```
-laptop
-excellent
-starter
-main course
-dessert
-grilled
-chicken
-taste
-salad
-vegetable
-delicious
-barely
-indeed  
-regard 
-congratulation 
-wedding
-bunch
-favor
-owe
-definitely  
-absolutely
-deck 
-intentional
-tent
+1. laptop
+2. excellent
+3. starter
+4. main course
+5. dessert
+6. grilled
+7. chicken
+8. taste
+9. salad
+10. vegetable
+11. delicious
+12. barely
+13. indeed
+14. regard
+15. congratulation
+16. wedding
+17. bunch
+18. favor
+19. owe
+20. definitely
+21. absolutely
+22. deck
+23. intentional
+24. tent
 ```
 
 #### 2024-10-10
@@ -89,50 +89,50 @@ tent
 ### 2024-10-11
 
 ```
-talented 
-garage
-surf
-cloudy
-shine
-eche other
-patience
-actress
-bright
-spacious
-shelf
-cinema
-crowded
-loud
-proud
+1. talented
+2. garage
+3. surf
+4. cloudy
+5. shine
+6. each other
+7. patience
+8. actress
+9. bright
+10. spacious
+11. shelf
+12. cinema
+13. crowded
+14. loud
+15. proud
 ```
 
 ### 2024-10-12
 
 ```
-as soon as
-treat
-insist
-cheese
-recommend
-specials
-bustling
-activity
-couch
-energetic
-entrepreneur
-is full of
-a selection of
-museum
-exhibit
-blouse
-grocery
-cozy
-yard
-peaceful
-bloom
-chef
-confident
-simeli
-all set 
-arrange
+1. as soon as
+2. treat
+3. insist
+4. cheese
+5. recommend
+6. specials
+7. bustling
+8. activity
+9. couch
+10. energetic
+11. entrepreneur
+12. is full of
+13. a selection of
+14. museum
+15. exhibit
+16. blouse
+17. grocery
+18. cozy
+19. yard
+20. peaceful
+21. bloom
+22. chef
+23. confident
+24. simeli
+25. all set
+26. arrange
 ```
