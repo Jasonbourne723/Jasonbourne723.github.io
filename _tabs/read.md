@@ -9,6 +9,7 @@ toc: true
 
 ## 2024
 
+- *《面纱》 -毛姆*
 - *《三个火枪手》 -大仲马*
 - *《动物农场》 -乔治·奥威尔*
 - [*《哈佛经典谈判术》*](https://jasonbourne723.github.io/posts/read-tanpan/)
