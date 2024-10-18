@@ -1,7 +1,7 @@
 ---
-title: 英语单词：week 1
+title: 英语单词记录
 date: 2024-10-10 10:12:00 +0800
-categories: [8.技术之外,英语学习]
+categories: [8.技术之外]
 tags: []
 ---
 
