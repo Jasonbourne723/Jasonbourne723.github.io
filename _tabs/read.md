@@ -9,10 +9,12 @@ toc: true
 
 ## 2024
 
+- *《被讨厌的勇气》 -岸见一郎*
 - *《罪与罚》 -陀思妥耶夫斯基*
 - [*《高效人士的七个习惯》*](https://jasonbourne723.github.io/posts/read-7-habits/)
 - *《月亮与六便士》 -毛姆*
 - *《面纱》 -毛姆*
+- *《红与黑》 -司汤达*
 - *《三个火枪手》 -大仲马*
 - *《动物农场》 -乔治·奥威尔*
 - [*《哈佛经典谈判术》*](https://jasonbourne723.github.io/posts/read-tanpan/)
