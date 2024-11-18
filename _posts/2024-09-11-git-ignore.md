@@ -3,6 +3,7 @@ title: Git移除已被跟踪的文件
 date: 2024-09-14 10:00:00 +0800
 categories: [7.系统运维]
 tags: []
+hidden: true
 ---
 
 要从 `GitHub` 仓库中移除已经上传的 `bin` 和 `obj` 目录，同时防止它们再次被上传，你可以按照以下步骤操作：

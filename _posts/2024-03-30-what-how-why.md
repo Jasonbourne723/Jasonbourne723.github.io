@@ -3,6 +3,7 @@ title: 学习的三个步骤：WHAT、HOW、WHY
 date: 2024-03-30 10:12:00 +0800
 categories: [8.技术之外]
 tags: [学习方法]
+hidden: true
 ---
 
 本文讨论的是指当你选定了一个技术方向之后，该如何学习。
