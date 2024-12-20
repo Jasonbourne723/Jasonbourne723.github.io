@@ -3,7 +3,7 @@ setlocal enabledelayedexpansion
 
 :retry
 echo try git command
-git pull 
+git push 
 set GIT_EXIT_CODE=%errorlevel%
 
 if %GIT_EXIT_CODE% neq 0 (
