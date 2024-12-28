@@ -1,7 +1,7 @@
 ---
 title: 读书笔记：《毛泽东选集-实践论》
 date: 2024-09-08 10:12:00 +0800
-categories: [8.技术之外]
+categories: [技术之外]
 tags: []
 hidden: true
 ---

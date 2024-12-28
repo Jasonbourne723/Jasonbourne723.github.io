@@ -1,7 +1,7 @@
 ---
 title: 知识图谱
 date: 2024-08-27 10:12:00 +0800
-categories: [1.架构设计]
+categories: [架构设计]
 tags: []
 hidden: true
 ---

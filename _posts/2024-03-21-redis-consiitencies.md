@@ -2,7 +2,7 @@
 title: 缓存和数据库一致性
 date: 2024-03-21 01:12:00 +0800
 pin: false 
-categories: [3.数据库/中间件,Redis]
+categories: [Redis]
 tags: [Redis]
 ---
 

@@ -2,7 +2,7 @@
 title: Redis配置文件详解
 date: 2023-02-22 01:12:00 +0800
 pin: false 
-categories: [3.数据库/中间件,Redis]
+categories: [Redis]
 tags: [Redis]
 ---
 

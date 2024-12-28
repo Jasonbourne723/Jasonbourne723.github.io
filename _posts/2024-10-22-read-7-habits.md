@@ -1,7 +1,7 @@
 ---
 title: 读书笔记：《高效能人士的七个习惯》
 date: 2024-10-22 10:12:00 +0800
-categories: [8.技术之外]
+categories: [技术之外]
 tags: []
 hidden: true
 ---

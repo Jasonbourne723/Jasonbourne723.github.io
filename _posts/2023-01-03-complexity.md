@@ -1,7 +1,7 @@
 ---
 title: 数据结构与算法：复杂度分析
 date: 2023-01-03 10:12:00 +0800
-categories: [4.数据结构与算法]
+categories: [数据结构与算法]
 toc: true
 tags: [数据结构与算法]
 ---

@@ -1,7 +1,7 @@
 ---
 title: 服务注册与发现
 date: 2023-05-09 00:34:00 +0800
-categories: [1.架构设计]
+categories: [架构设计]
 tags: [微服务,Consul]
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Nginx负载均衡配置
 date: 2024-2-27 10:12:00 +0800
-categories: [1.架构设计]
+categories: [架构设计]
 tags: [Nginx]
 ---
 

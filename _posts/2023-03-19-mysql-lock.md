@@ -1,7 +1,7 @@
 ---
 title: MySQL 锁
 date: 2023-03-19 10:12:00 +0800
-categories: [3.数据库/中间件,MySQL]
+categories: [数据库]
 tags: [MySQL]
 ---
 

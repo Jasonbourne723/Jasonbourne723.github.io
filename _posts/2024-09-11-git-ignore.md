@@ -1,7 +1,7 @@
 ---
 title: Git移除已被跟踪的文件
 date: 2024-09-14 10:00:00 +0800
-categories: [7.系统运维]
+categories: [计系统运维算机基础]
 tags: []
 hidden: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: 服务治理：限流
 date: 2024-12-16 09:12:00 +0800
-categories: [1.架构设计]
+categories: [架构设计]
 tags: []
 ---
 
