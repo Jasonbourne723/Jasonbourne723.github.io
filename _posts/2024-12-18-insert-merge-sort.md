@@ -63,3 +63,30 @@ func merge(left, right []int) []int {
 	return result
 }
 ```
+
+## 3.快速排序
+
+快速排序是一种高效的排序算法，它采用了分治法的策略。它的基本思想是：选择一个基准元素，通常是数组的第一个或最后一个元素，然后将数组分为两部分，使得左边的所有元素都不大于基准元素，右边的所有元素都不小于基准元素。接着，对这两部分继续进行快速排序，直到整个序列有序。
+
+快速排序的平均时间复杂度为 O(nlogn)，在最好的情况下也是 O(nlogn)，但在最坏的情况下会退化为 O(n^2)。尽管如此，由于它的平均性能非常好，它通常比其他 O(nlogn) 算法更快，因此在实际应用中非常受欢迎。
+
+```go
+func QuickSort(array []int) []int {
+	if len(array) < 2 {
+		return array
+	}
+	left, right := 0, len(array)-1
+	pivot := rand.Int() % len(array)
+	array[pivot], array[right] = array[right], array[pivot]
+	for i := range array {
+		if array[i] < array[right] {
+			array[i], array[left] = array[left], array[i]
+			left++
+		}
+	}
+	array[left], array[right] = array[right], array[left]
+	QuickSort(array[:left])
+	QuickSort(array[left+1:])
+	return array
+}
+```
