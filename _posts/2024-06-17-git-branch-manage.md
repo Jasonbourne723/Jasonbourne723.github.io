@@ -1,7 +1,7 @@
 ---
 title: git分支管理策略
 date: 2024-06-17 10:12:00 +0800
-categories: [计系统运维算机基础]
+categories: [系统运维]
 tags: []
 ---
 
