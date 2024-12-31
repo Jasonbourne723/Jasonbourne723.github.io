@@ -1,7 +1,7 @@
 ---
 title: 谷歌三架马车：MapReduce
 date: 2024-08-13 10:34:00 +0800
-categories: [架构设计]
+categories: [论文]
 tags: []
 hidden: true
 ---
