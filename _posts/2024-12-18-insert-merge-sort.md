@@ -90,3 +90,28 @@ func QuickSort(array []int) []int {
 	return array
 }
 ```
+
+## 4.基数排序
+
+数组中都是正整数，并且其中最大的元素是一个相对较小的数，可以采用基数排序。
+
+```go
+func BaseSort(array []int) []int {
+
+	temp := [5]int{}
+
+	for _, item := range array {
+		temp[item]++
+	}
+
+	i := 0
+	for j := 0; j < 5; j++ {
+		for temp[j] > 0 {
+			array[i] = j
+			i++
+			temp[j]--
+		}
+	}
+	return array
+}
+```
