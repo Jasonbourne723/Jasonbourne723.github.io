@@ -23,57 +23,37 @@ pin: true
 ### 基础数据结构
 
 - [数组](https://jasonbourne723.github.io/posts/array/)
-
 - [链表](https://jasonbourne723.github.io/posts/link-list/)
-
 - [队列](https://jasonbourne723.github.io/posts/queue/)
-
 - [栈](https://jasonbourne723.github.io/posts/stack/)
-
 - [散列表](https://jasonbourne723.github.io/posts/hash-table/)
-
 - [位图](https://jasonbourne723.github.io/posts/bit-map/)
 
 ### 高级数据结构
 
 - [二叉树](https://jasonbourne723.github.io/posts/binary-tree/)
-
 - [堆](https://jasonbourne723.github.io/posts/heap/)
-
 - [trie树](https://jasonbourne723.github.io/posts/trie/)
-
 - [AVL树](https://jasonbourne723.github.io/posts/avl-tree/)
-
 - [B+树](https://jasonbourne723.github.io/posts/b+tree/)
-
 - [不相交集合（Disjoint set）](https://jasonbourne723.github.io/posts/disjoint-set/)
-
 - [跳表](https://jasonbourne723.github.io/posts/skip-list/)
-
 - [红黑树](https://jasonbourne723.github.io/posts/red-black-tree/)
 
 ### 图论
 
 - [图](https://jasonbourne723.github.io/posts/graph/)
-
 - [深度、广度优先搜索](https://jasonbourne723.github.io/posts/deep-search/)
-
 - [拓扑排序，Dijkstra，A*算法](https://jasonbourne723.github.io/posts/dijkstra/)
 
 ### 算法思想
 
 - [递归](https://jasonbourne723.github.io/posts/recursion/)
-
 - [二分查找](https://jasonbourne723.github.io/posts/binary-search/)
-
 - [排序算法](https://jasonbourne723.github.io/posts/insert-merge-sort)
-
 - [BF/RK字符串匹配算法](https://jasonbourne723.github.io/posts/bf-rk/)
-
 - [BM，kmp，ac自动机](https://jasonbourne723.github.io/posts/bm-kmp/)
-
 - [四种算法思想](https://jasonbourne723.github.io/posts/algorithm-thinking/)
-
 
 ### 数据结构与算法的重要性
 
