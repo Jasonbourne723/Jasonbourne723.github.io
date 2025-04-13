@@ -42,4 +42,4 @@ order: 4
 
 ## 2024
 
-- [2024年训练记录](/_posts/2025-04-13-train-record-2024.md)
+- [2024年训练记录](/posts/train-record-2024)
