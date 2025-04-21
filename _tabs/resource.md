@@ -9,6 +9,11 @@ order: 5
 - [SSH 教程](https://wangdoc.com/ssh/)
 - [Bash 脚本教程](https://wangdoc.com/bash/)
 
+## 微服务
+
+- [凤凰架构](https://icyfenix.cn/)
+- [Consul](https://www.consul.io/docs)
+
 
 ## AI
 
