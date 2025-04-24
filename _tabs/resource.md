@@ -19,6 +19,17 @@ order: 5
 
 - [动手实战人工智能](https://aibydoing.com/)
 
+## 分布式
+
+- [大规模系统模式论文](https://github.com/binhnguyennus/awesome-scalability)
+
+## 优质站点
+
+- [四火的唠叨](https://www.raychase.net/aboutme)
+- [酷壳](https://coolshell.cn/articles/18360.html)
+- [Jack Vanlightly](https://jack-vanlightly.com/)
+- [Martin Kleppmann](https://martin.kleppmann.com/)
+
 ## 其他
 
 - [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
