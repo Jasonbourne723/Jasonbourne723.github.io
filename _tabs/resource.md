@@ -29,6 +29,8 @@ order: 5
 - [酷壳](https://coolshell.cn/articles/18360.html)
 - [Jack Vanlightly](https://jack-vanlightly.com/)
 - [Martin Kleppmann](https://martin.kleppmann.com/)
+- [崔亮的博客-devops方向](https://www.cuiliangblog.cn/)
+- [如何成为一名自洽的程序员](https://github.com/zhangchenchen/self-consistent-coder)
 
 ## 其他
 
