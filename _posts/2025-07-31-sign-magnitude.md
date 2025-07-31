@@ -1,9 +1,9 @@
 ---
 title: 正码、反码、补码
 date: 2025-07-31 07:12:00 +0800
-categories: `计算机基础`
-tags: `
-hidden: true
+categories: [计算机基础]
+tags: []
+hidden: false
 ---
 
 ### 机器数
