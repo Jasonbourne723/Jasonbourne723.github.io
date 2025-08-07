@@ -5,9 +5,6 @@ order: 8
 ---
 
 
-> talk is cheap , show your code
-
-
 ## Hello!
 
 I’m Tang Lei. Briefly about myself:
