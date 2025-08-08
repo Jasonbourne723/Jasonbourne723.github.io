@@ -1,5 +1,5 @@
 ---
-title: [转载]Twitter工程师如何设计从0到1的百万级并发应用
+title: 【转载】Twitter工程师如何设计从0到1的百万级并发应用
 date: 2024-03-22 01:12:00 +0800
 pin: false 
 categories: [架构设计]
