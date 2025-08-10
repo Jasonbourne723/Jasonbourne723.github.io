@@ -66,6 +66,5 @@ You now have a much better understanding of chess. But could you explain it in s
 Break it down into its simplest form. Attempt to express this in a short, clear way. It’s easier said than done.
 
 
-## Original article link
 
-https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching
+[Original article link](https://www.colorado.edu/artssciences-advising/resource-library/life-skills/the-feynman-technique-in-academic-coaching)
