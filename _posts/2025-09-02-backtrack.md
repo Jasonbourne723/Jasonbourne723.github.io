@@ -1,5 +1,5 @@
 ---
-title: 回溯算法
+title: 数据结构与算法：回溯算法
 date: 2025-09-02 10:01:00 +0800
 categories: [数据结构与算法]
 toc: true
