@@ -27,14 +27,14 @@ tags: [数据结构与算法]
 func maxVowels(s string, k int) int {
     var t int
     var ans int
-	// 初始化第一个窗口
+// 初始化第一个窗口
     for i:=0;i<k;i++ {
         t += isVowel(s[i])
     }
     ans = t
 
     for i:=k;i<len(s);i++ {
-		// 窗口左右左边同时向右移动1位
+// 窗口左右指针同时向右移动1位
         t += isVowel(s[i])
         t -= isVowel(s[i-k])
         ans = max(ans,t)
@@ -80,7 +80,7 @@ func totalFruit(fruits []int) int {
     for r,item := range fruits {
         m[item]++
         for len(m) > 2 {
-			// 不符合条件时，窗口左指针向右移动
+	// 不符合条件时，窗口左指针向右移动
             m[fruits[l]]--
             if m[fruits[l]] == 0 {
                 delete(m,fruits[l])
