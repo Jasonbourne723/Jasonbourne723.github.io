@@ -1,11 +1,9 @@
 ---
 title: OpenTelemetry从零到实践
-date: 2025-12-16 22:00:00 +0800
+date: 2025-10-16 22:00:00 +0800
 categories: [微服务]
 tags: [OpenTelemetry, 可观测性, tracing, metrics, logging]
 ---
-
-# OpenTelemetry 学习总结：从零到实践
 
 ## 前言：为什么要关心可观测性？
 
