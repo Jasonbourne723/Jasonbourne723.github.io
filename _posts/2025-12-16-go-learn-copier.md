@@ -1,11 +1,11 @@
 ---
-title: Go 语言学习：copier 框架深入解析
+title: Go 语言学习：copier 
 date: 2025-12-16 01:12:00 +0800
 categories: [Go 语言]
 tags: [Go]
 ---
 
-## 1. 写在前面：为什么要学 copier？
+## 1. 为什么要学 copier？
 
 在实际业务项目中，我们很少只维护“一份结构体”。通常会有：
 
