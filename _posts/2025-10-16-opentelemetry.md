@@ -1,7 +1,7 @@
 ---
 title: OpenTelemetry从零到实践
 date: 2025-10-16 22:00:00 +0800
-categories: [微服务]
+categories: [分布式]
 tags: [OpenTelemetry, 可观测性, tracing, metrics, logging]
 ---
 
