@@ -1,7 +1,7 @@
 ---
 title: 【转载】Go 垃圾回收：三色标记法
 date: 2025-01-02 01:12:00 +0800
-categories: [Go 语言]
+categories: [Go]
 tags: [Go]
 ---
 

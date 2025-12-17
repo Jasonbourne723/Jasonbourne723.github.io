@@ -1,7 +1,7 @@
 ---
 title: Go 语言学习：Gin 
 date: 2025-10-16 01:12:00 +0800
-categories: [Go 语言]
+categories: [Go]
 tags: [Go, Gin, Web框架]
 ---
 
