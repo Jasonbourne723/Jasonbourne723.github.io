@@ -1,5 +1,5 @@
 ---
-title: "分布式事务"
+title: 分布式事务
 date: 2025-11-05 00:12:00 +0800
 categories: [微服务]
 tags: [分布式事务, DTM, Seata, 微服务, 事务一致性]
