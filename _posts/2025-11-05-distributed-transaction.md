@@ -524,3 +524,4 @@ saga := dtmcli.NewSaga(dtmServer, gid).
 - [Seata 官方文档](https://seata.io/)
 - [分布式事务理论](https://en.wikipedia.org/wiki/Distributed_transaction)
 - [SAGA 模式论文](https://www.cs.cornell.edu/andru/cs711/2002fa/reading/sagas.pdf)
+- [分布式事务文章](https://segmentfault.com/blog/yedf2)
