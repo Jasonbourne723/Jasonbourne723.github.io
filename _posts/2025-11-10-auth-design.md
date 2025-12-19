@@ -194,7 +194,7 @@ Table password_policy {
 
 权限变更时，删除对应的缓存 key，或者递增版本号。用户下次请求时发现缓存失效或版本不匹配，重新计算权限。
 
-```
+```sql
 key: permission:user:1001:tenant:1
 value: {
   "resources": {
@@ -235,7 +235,7 @@ TTL: 1800
 
 ![鉴权中心 ER 图](/assets/img/auth/2.png)
 
-```
+```sql
 // 租户表
 Table tenant {
   id bigint [pk]
