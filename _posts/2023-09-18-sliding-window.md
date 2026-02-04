@@ -25,29 +25,25 @@ tags: [数据结构与算法]
 
 ```go
 func maxVowels(s string, k int) int {
-    var t int
-    var ans int
-// 初始化第一个窗口
-    for i:=0;i<k;i++ {
-        t += isVowel(s[i])
+    var ans,sum int
+    for i:=0;i<len(s);i++ {
+        if i<k-1 {
+            sum += isVowel(s[i])
+            continue
+        }
+        sum += isVowel(s[i])
+        ans = max(ans,sum)
+        sum -= isVowel(s[i-k+1])
     }
-    ans = t
-
-    for i:=k;i<len(s);i++ {
-// 窗口左右指针同时向右移动1位
-        t += isVowel(s[i])
-        t -= isVowel(s[i-k])
-        ans = max(ans,t)
-    }
-
     return ans
 }
 
-func isVowel(x byte) int {
-    if x == 'a' || x == 'e' || x== 'i' || x == 'o' || x== 'u' {
+func isVowel(b byte) int {
+    if b == 'a' || b == 'e' || b == 'i' || b == 'o' || b == 'u' {
         return 1
+    }else{
+        return 0
     }
-    return 0
 }
 ```
 
